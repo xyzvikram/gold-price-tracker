@@ -20,3 +20,5 @@ Built with *HTML, CSS, and JavaScript* using real-time data from metals.live API
 
 ## 🌐 Live Demo
 [View on GitHub Pages](https://xyzvikram.github.io/gold-price-tracker)
+
+---
