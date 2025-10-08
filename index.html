@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Gold Price Tracker</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="box">
-    <h2>Gold Price Tracker</h2>
-    <select id="currency">
-      <option value="INR">INR (₹)</option>
-      <option value="USD">USD ($)</option>
-      <option value="EUR">EUR (€)</option>
-    </select>
+  <div class="tracker-box">
+    <h2>Gold Price Tracker (Live)</h2>
+    <button id="refresh">🔄 Refresh Price</button>
 
-    <button id="getPrice">Get Latest Price</button>
-    <p id="price"></p>
+    <div class="price-box">
+      <p><strong>24K Gold (per gram):</strong> <span id="price24">--</span></p>
+      <p><strong>22K Gold (per gram):</strong> <span id="price22">--</span></p>
+    </div>
+
+    <p id="updateTime"></p>
   </div>
 
   <script src="script.js"></script>
