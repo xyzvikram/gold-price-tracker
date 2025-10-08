@@ -19,3 +19,5 @@ Built using *HTML, CSS, and JavaScript* with live data from a free API.
 
 ## 🌐 Live Demo
 [View on GitHub Pages](https://xyzvikram.github.io/gold-price-tracker)
+
+---
