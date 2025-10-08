@@ -1,14 +1,15 @@
-# 🪙 Gold Price Tracker
+# 🪙 Gold Price Tracker (Live)
 
-A simple web app that shows the *latest gold prices* in different currencies (INR, USD, EUR).  
-Built using *HTML, CSS, and JavaScript* with live data from a free API.
+A simple web app that shows *live gold price in INR* (24K and 22K per gram).  
+Built with *HTML, CSS, and JavaScript* using real-time data from metals.live API.
 
 ---
 
-## ⚙ How to Use
-1. Select your currency  
-2. Click *Get Latest Price*  
-3. View live gold price instantly  
+## ⚙ Features
+- Live gold price (24K & 22K)
+- Price in Indian Rupees
+- Auto-refresh button
+- Clean and responsive design
 
 ---
 
@@ -19,5 +20,3 @@ Built using *HTML, CSS, and JavaScript* with live data from a free API.
 
 ## 🌐 Live Demo
 [View on GitHub Pages](https://xyzvikram.github.io/gold-price-tracker)
-
----
