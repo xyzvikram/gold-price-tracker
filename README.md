@@ -1,15 +1,14 @@
-# 🪙 Gold Price Tracker (Live)
+# 🪙 Gold Price Tracker (CoinGecko API)
 
-A simple web app that shows *live gold price in INR* (24K and 22K per gram).  
-Built with *HTML, CSS, and JavaScript* using real-time data from metals.live API.
+A simple live *Gold Price Tracker* using CoinGecko API.  
+Shows *24K & 22K gold prices per gram* in INR and USD.
 
 ---
 
 ## ⚙ Features
 - Live gold price (24K & 22K)
-- Price in Indian Rupees
-- Auto-refresh button
-- Clean and responsive design
+- INR and USD support
+- Real-time data via CoinGecko API
 
 ---
 
@@ -20,5 +19,3 @@ Built with *HTML, CSS, and JavaScript* using real-time data from metals.live API
 
 ## 🌐 Live Demo
 [View on GitHub Pages](https://xyzvikram.github.io/gold-price-tracker)
-
----
