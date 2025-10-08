@@ -1,4 +1,3 @@
-# gold-price-tracker
 # 🪙 Gold Price Tracker
 
 A simple web app that shows the *latest gold prices* in different currencies (INR, USD, EUR).  
