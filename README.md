@@ -19,5 +19,3 @@ Shows *24K & 22K gold prices per gram* in INR and USD.
 
 ## 🌐 Live Demo
 [View on GitHub Pages](https://xyzvikram.github.io/gold-price-tracker)
-
----
